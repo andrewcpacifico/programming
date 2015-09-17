@@ -6,10 +6,13 @@
 
 int main(int argc, char *argv[])
 {
-    int a, b;
+    int qp1, qp2, c;
+    double pp1, pp2;
 
-    scanf("%d%d", &a, &b);
-    printf("X = %d\n", a + b);
-    
+    scanf("%d%d%lf", &c, &qp1, &pp1);
+    scanf("%d%d%lf", &c, &qp2, &pp2);
+
+    printf("VALOR A PAGAR: R$ %.2lf\n", qp1*pp1 + qp2*pp2);
+
     return 0;
 }

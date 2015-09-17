@@ -6,10 +6,11 @@
 
 int main(int argc, char *argv[])
 {
-    int a, b;
+    char name[200];
+    double salary, sales;
 
-    scanf("%d%d", &a, &b);
-    printf("X = %d\n", a + b);
+    scanf("%s\n%lf%lf", name, &salary, &sales);
+    printf("TOTAL = R$ %.2lf\n", 0.15*sales + salary);
     
     return 0;
 }

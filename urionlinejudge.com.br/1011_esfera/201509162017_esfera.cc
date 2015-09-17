@@ -4,12 +4,14 @@
  */
 #include <stdio.h>
 
+#define PI 3.14159
+
 int main(int argc, char *argv[])
 {
-    int a, b;
+    double raio;
 
-    scanf("%d%d", &a, &b);
-    printf("X = %d\n", a + b);
+    scanf("%lf", &raio);
+    printf("VOLUME = %.3lf\n", (4/3.0) * PI * raio*raio*raio);
     
     return 0;
 }
