@@ -6,10 +6,16 @@
 
 int main(int argc, char *argv[])
 {
-    int a, b;
+    int n, aux, sum = 0;
 
-    scanf("%d%d", &a, &b);
-    printf("X = %d\n", a + b);
-    
+    scanf("%d", &n);
+
+    while (n--) {
+        scanf("%d", &aux);
+        sum += aux;
+    }
+
+    printf("%d", sum);
+
     return 0;
 }
