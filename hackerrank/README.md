@@ -2,7 +2,9 @@
 
 ### Problems already solved
 
-#### Algorithms > Warmup
+#### Algorithms
+
+##### Algorithms > Warmup
 
  - [Solve me first](https://www.hackerrank.com/challenges/solve-me-first)
  - [Solve me second](https://www.hackerrank.com/challenges/solve-me-second)
@@ -12,3 +14,7 @@
  - [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
  - [Staircase](https://www.hackerrank.com/challenges/staircase)
  - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
+
+##### Algorithms > Implementation
+
+ - [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)
