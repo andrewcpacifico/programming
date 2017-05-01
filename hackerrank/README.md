@@ -16,6 +16,7 @@
  - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
  - [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
  - [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
+ - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
 
 ##### Algorithms > Implementation
 
