@@ -14,6 +14,7 @@
  - [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
  - [Staircase](https://www.hackerrank.com/challenges/staircase)
  - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
+ - [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
 
 ##### Algorithms > Implementation
 
