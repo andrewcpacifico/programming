@@ -21,3 +21,7 @@
 ##### Algorithms > Implementation
 
  - [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)
+
+##### Algorithms > Strings 
+
+ - [Camel Case](https://www.hackerrank.com/challenges/camelcase)
