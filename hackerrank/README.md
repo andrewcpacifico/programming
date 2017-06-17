@@ -25,3 +25,7 @@
 ##### Algorithms > Strings 
 
  - [Camel Case](https://www.hackerrank.com/challenges/camelcase)
+
+##### Algorithms > Search 
+
+ - [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)
