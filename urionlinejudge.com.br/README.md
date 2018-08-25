@@ -20,6 +20,7 @@
  - [Consumo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014)
  - [Distância entre dois pontos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015)
  - [Distância](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016)
+ - [Gasto de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017)
  - [Notas e Moedas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)
  - [Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
  - [Múltiplos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
