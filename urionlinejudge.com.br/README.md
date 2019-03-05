@@ -54,3 +54,6 @@
 #### Matemática
  - [Estrela](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233)
  - [Encaixa ou Não I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240)
+
+#### Geometria Computacional
+ - [Será Isso Integração?](https://www.urionlinejudge.com.br/judge/pt/problems/view/1291)
