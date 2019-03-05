@@ -25,6 +25,7 @@
  - [Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
  - [Múltiplos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
  - [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)
+ - [Quadrado e ao Cubo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143)
 
 #### AD-HOC 
 
