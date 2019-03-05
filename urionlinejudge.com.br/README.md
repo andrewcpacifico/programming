@@ -42,3 +42,4 @@
  - [Fusões](https://www.urionlinejudge.com.br/judge/pt/problems/view/2380)
  - [Ordenando a Lista de Crianças do Papai Noel](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479)
  - [A Bruxa do 7 x 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569)
+ - [Van](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693)
