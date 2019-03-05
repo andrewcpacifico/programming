@@ -55,6 +55,7 @@
  - [Estrela](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233)
  - [Encaixa ou Não I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240)
  - [Floco de Neve de Koch](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760)
+ - [Baile de Reconciliação](https://www.urionlinejudge.com.br/judge/pt/problems/view/1999)
 
 #### Geometria Computacional
  - [Será Isso Integração?](https://www.urionlinejudge.com.br/judge/pt/problems/view/1291)
