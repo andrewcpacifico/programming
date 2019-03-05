@@ -50,3 +50,6 @@
 
 #### Grafos
  - [Entregadores de Steak](https://www.urionlinejudge.com.br/judge/pt/problems/view/2046)
+
+#### Matemática
+ - [Estrela](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233)
