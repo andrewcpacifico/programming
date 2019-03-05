@@ -29,6 +29,7 @@
  - [Desafio de Bino](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060)
  - [Cachorros-Quentes](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234)
  - [Pneu](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374)
+ - [Entrada e Saída de Data](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764)
 
 #### AD-HOC 
 
