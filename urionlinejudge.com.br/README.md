@@ -24,6 +24,7 @@
  - [Notas e Moedas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)
  - [Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
  - [Múltiplos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
+ - [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)
 
 #### AD-HOC 
 
