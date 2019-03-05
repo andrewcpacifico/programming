@@ -33,6 +33,7 @@
 
 #### AD-HOC 
 
+ - [Onde estão meus Genes](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271)
  - [Campo de minhocas](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293)
  - [Frota de Taxi](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295)
  - [Trilhas](https://www.urionlinejudge.com.br/judge/pt/problems/view/2296)
