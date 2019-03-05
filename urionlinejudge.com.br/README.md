@@ -59,3 +59,6 @@
 
 #### Geometria Computacional
  - [Será Isso Integração?](https://www.urionlinejudge.com.br/judge/pt/problems/view/1291)
+
+#### Paradigmas
+ - [Mario](https://www.urionlinejudge.com.br/judge/pt/problems/view/1408)
