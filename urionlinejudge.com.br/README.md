@@ -39,3 +39,4 @@
  - [Frota de Taxi](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295)
  - [Trilhas](https://www.urionlinejudge.com.br/judge/pt/problems/view/2296)
  - [Bafo](https://www.urionlinejudge.com.br/judge/pt/problems/view/2297)
+ - [Fusões](https://www.urionlinejudge.com.br/judge/pt/problems/view/2380)
