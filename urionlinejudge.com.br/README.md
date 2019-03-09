@@ -54,6 +54,7 @@
  - [Entregadores de Steak](https://www.urionlinejudge.com.br/judge/pt/problems/view/2046)
 
 #### Matemática
+ - [Vampiros](https://www.urionlinejudge.com.br/judge/pt/problems/view/1093)
  - [Estrela](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233)
  - [Encaixa ou Não I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1240)
  - [Floco de Neve de Koch](https://www.urionlinejudge.com.br/judge/pt/problems/view/1760)
