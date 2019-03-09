@@ -66,6 +66,7 @@
  - [Problema com um Pentágono](https://www.urionlinejudge.com.br/judge/pt/problems/view/1292)
 
 #### Paradigmas
+ - [Motoboy](https://www.urionlinejudge.com.br/judge/pt/problems/view/1286)
  - [Mario](https://www.urionlinejudge.com.br/judge/pt/problems/view/1408)
 
 ### Strings
