@@ -26,6 +26,7 @@
  - [Múltiplos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1044)
  - [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)
  - [Quadrado e ao Cubo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143)
+ - [O Escolhido](https://www.urionlinejudge.com.br/judge/pt/problems/view/1983)
  - [Desafio de Bino](https://www.urionlinejudge.com.br/judge/pt/problems/view/2060)
  - [Cachorros-Quentes](https://www.urionlinejudge.com.br/judge/pt/problems/view/2234)
  - [Pneu](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374)
