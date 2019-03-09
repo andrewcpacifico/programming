@@ -62,3 +62,6 @@
 
 #### Paradigmas
  - [Mario](https://www.urionlinejudge.com.br/judge/pt/problems/view/1408)
+
+### Strings
+ - [Huaauhahhuahau](https://www.urionlinejudge.com.br/judge/pt/problems/view/2242)
