@@ -68,6 +68,7 @@
 #### Paradigmas
  - [Motoboy](https://www.urionlinejudge.com.br/judge/pt/problems/view/1286)
  - [Mario](https://www.urionlinejudge.com.br/judge/pt/problems/view/1408)
+ - [Fila do Bandejão](https://www.urionlinejudge.com.br/judge/pt/problems/view/1524)
  - [Saco do Papai Noel](https://www.urionlinejudge.com.br/judge/pt/problems/view/1767)
 
 ### Strings
