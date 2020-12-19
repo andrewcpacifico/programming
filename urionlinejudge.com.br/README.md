@@ -43,6 +43,7 @@
  - [Trilhas](https://www.urionlinejudge.com.br/judge/pt/problems/view/2296)
  - [Bafo](https://www.urionlinejudge.com.br/judge/pt/problems/view/2297)
  - [Fusões](https://www.urionlinejudge.com.br/judge/pt/problems/view/2380)
+ - [Pac-Man](https://www.urionlinejudge.com.br/judge/pt/problems/view/2451)
  - [Ordenando a Lista de Crianças do Papai Noel](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479)
  - [Guru da Sorte](https://www.urionlinejudge.com.br/judge/pt/problems/view/2508)
  - [A Bruxa do 7 x 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569)
