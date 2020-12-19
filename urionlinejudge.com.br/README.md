@@ -33,10 +33,11 @@
  - [I am Toorg!](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581)
  - [Entrada e Saída de Data](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764)
 
-#### AD-HOC 
+#### AD-HOC
 
  - [Onde estão meus Genes](https://www.urionlinejudge.com.br/judge/pt/problems/view/1271)
  - [Sudoku](https://www.urionlinejudge.com.br/judge/pt/problems/view/1383)
+ - [Planejando a Energia](https://www.urionlinejudge.com.br/judge/pt/problems/view/1540)
  - [Campo de minhocas](https://www.urionlinejudge.com.br/judge/pt/problems/view/2293)
  - [Frota de Taxi](https://www.urionlinejudge.com.br/judge/pt/problems/view/2295)
  - [Trilhas](https://www.urionlinejudge.com.br/judge/pt/problems/view/2296)
