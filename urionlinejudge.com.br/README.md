@@ -48,6 +48,7 @@
  - [Guru da Sorte](https://www.urionlinejudge.com.br/judge/pt/problems/view/2508)
  - [A Bruxa do 7 x 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/2569)
  - [Van](https://www.urionlinejudge.com.br/judge/pt/problems/view/2693)
+ - [Distância entre Amigos](https://www.urionlinejudge.com.br/judge/pt/problems/view/3050)
 
 #### Estruturas e Bibliotecas
  - [Precisa-se de Matemáticos em Marte](https://www.urionlinejudge.com.br/judge/pt/problems/view/1804)
