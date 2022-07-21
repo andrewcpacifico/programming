@@ -32,6 +32,7 @@
  - [Pneu](https://www.urionlinejudge.com.br/judge/pt/problems/view/2374)
  - [I am Toorg!](https://www.urionlinejudge.com.br/judge/pt/problems/view/2581)
  - [Entrada e Saída de Data](https://www.urionlinejudge.com.br/judge/pt/problems/view/2764)
+ - [Sobrinho do Meio](https://www.urionlinejudge.com.br/judge/pt/problems/view/3301)
 
 #### AD-HOC
 
