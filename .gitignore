@@ -4,3 +4,5 @@ a.out
 input
 output
 sol
+.DS_Store
+.vscode
